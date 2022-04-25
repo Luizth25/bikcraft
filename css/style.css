@@ -1,5 +1,6 @@
 @import "./global/global.css";
 @import "./global/header.css";
+@import "./global/footer.css";
 
 /* ultilidades */
 @import "./ultilidades/componentes.css";
@@ -14,3 +15,5 @@
 
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
+
+@import "./seguros/seguros.css";
