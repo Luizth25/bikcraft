@@ -11,6 +11,7 @@
 /* bicicletas */
 @import "./bicicletas/bicicletas-listas.css";
 @import "./bicicletas/bicicletas.css";
+@import "./bicicleta/bicicleta.css";
 
 /* home */
 @import "./home/depoimento.css";
