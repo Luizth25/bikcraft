@@ -7,11 +7,19 @@
 @import "./ultilidades/componentes.css";
 @import "./ultilidades/cores.css";
 @import "./ultilidades/tipografia.css";
+@import "./ultilidades/formulario.css";
 
 /* bicicletas */
 @import "./bicicletas/bicicletas-listas.css";
 @import "./bicicletas/bicicletas.css";
+
+/* bicicleta */
 @import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
+
+/* contato */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 
 /* home */
 @import "./home/depoimento.css";
