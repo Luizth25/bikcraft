@@ -1,5 +1,5 @@
 #contato {
-  background: linear-gradient var((--cor-11) 600px, var(--cor-1) 0px);
+  background: linear-gradient(var(--cor-11) 600px, var(--cor-1) 0px);
 }
 
 .contato {
@@ -11,7 +11,6 @@
 .contato-formulario {
   padding: 60px;
   box-shadow: 0 1px 2px rgb(0, 0, 0, 0.1);
-  margin-bottom: 200px;
 }
 
 .contato-dados {
